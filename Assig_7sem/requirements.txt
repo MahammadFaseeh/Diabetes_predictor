@@ -1,0 +1,14 @@
+# Core dependencies
+streamlit
+numpy<2.0
+pandas>=1.5
+matplotlib>=3.7
+seaborn>=0.12
+
+# Machine Learning
+scikit-learn==1.5.2
+lightgbm==4.5.0
+shap==0.45.1
+
+# Optional (recommended for smoother plotting and caching)
+joblib>=1.3
