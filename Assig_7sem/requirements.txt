@@ -1,0 +1,6 @@
+numpy<2.0
+pandas
+scikit-learn==1.5.2
+shap==0.45.1
+streamlit
+matplotlib
